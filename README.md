@@ -14,7 +14,7 @@
 
 - 🌱 I’m currently learning Full stack Development using MERN and other programming languages
 
-- 📫 How to reach me **vbasnayaka@wiley**
+- 📫 How to reach me **vbasnayaka@wiley.com**
 
 - ⚡ Fun fact :- Call me As Vikka
 
