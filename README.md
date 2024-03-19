@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Vikum Chathuranga</h1>
-<h3 align="center">Student at SLIIT University, SRI LANKA🌟.</h3>
+<h3 align="center">Monitoring Engineer - Intern @wiley.</h3>
 
 <br>
 
-<p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="VikumChathuranga22434" /></p>
-<p align="right"> <h3>Profile Views :-</h3> <img src="https://komarev.com/ghpvc/?username=VikumChathuranga22434&label=Profile%20views&color=0e75b6&style=flat"
+<p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="vbasnayaka" /></p>
+<p align="right"> <h3>Profile Views :-</h3> <img src="https://komarev.com/ghpvc/?username=vbasnayaka&label=Profile%20views&color=0e75b6&style=flat"
     alt="adam-pw" /> 
   </p>
 
@@ -14,7 +14,7 @@
 
 - 🌱 I’m currently learning Full stack Development using MERN and other programming languages
 
-- 📫 How to reach me **chathx.vik@gmail.com**
+- 📫 How to reach me **vbasnayaka@wiley**
 
 - ⚡ Fun fact :- Call me As Vikka
 
@@ -33,14 +33,14 @@
 <tr border="none">
 <td width="50%" align="center">
   
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=VikumChathuranga22434&theme=dark&show_icons=true&count_private=true" />
+  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=vbasnayaka&theme=dark&show_icons=true&count_private=true" />
   <br></br>
-  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=VikumChathuranga22434&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="VikumChathuranga22434" /></p>
+  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vbasnayaka&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="vbasnayaka" /></p>
 
 </td>
 <td width="50%" align="center">
 
-  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=VikumChathuranga22434&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=vbasnayaka&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
   
   </td>
 </tr>
@@ -50,9 +50,9 @@
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="https://linkedin.com/in/VikumCB" target="blank"><img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" alt="VikumChathuranga22434" height="50" width="50" /></a>
-<a href="https://www.instagram.com/___chathx.vik____/" target="blank"><img align="center" src="https://www.edigitalagency.com.au/wp-content/uploads/new-Instagram-icon-png-full-colour.png" alt="kavee_dineth" height="50" width="50" /></a>
-<a href="https://x.com/VikumChathx__/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/X_icon_2.svg/2048px-X_icon_2.svg.png" alt="kavee_dineth" height="50" width="50" /></a>
+<a href="https://linkedin.com/in/VikumCB" target="blank"><img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" alt="vbasnayaka" height="50" width="50" /></a>
+<a href="https://www.instagram.com/___chathx.vik____/" target="blank"><img align="center" src="https://www.edigitalagency.com.au/wp-content/uploads/new-Instagram-icon-png-full-colour.png" alt="vbasnayaka" height="50" width="50" /></a>
+<a href="https://x.com/VikumChathx__/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/X_icon_2.svg/2048px-X_icon_2.svg.png" alt="vbasnayaka" height="50" width="50" /></a>
 </p>
 
 ---
